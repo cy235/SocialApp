@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" src="https://github.com/cy235/SocialApp/blob/master/simplesocial/image/social1.jpg">
+  <img width="1200" src="https://github.com/cy235/SocialApp/blob/master/simplesocial/image/social1.jpg">
 </p>
 
 <p align="center">
